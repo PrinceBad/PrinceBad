@@ -12,64 +12,77 @@
   <img src="https://img.shields.io/badge/Open%20to%20Work-28a745?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Open to Work" />
 </p>
 
-<p align="center">
-  <a href="mailto:kingofdozen420@gmail.com">
-    <img src="https://img.shields.io/badge/Email-kingofdozen420%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Prince_Badsiwal-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/princebadsiwal" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-princebadsiwal-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-
----
-
-### 📖 Profile Summary
-
-I am an active **Job Seeker** with a strong technical focus in Python-based automation, front-end web development (HTML, CSS, JS), and Linux system administration. I am deeply engaged in the local tech scene, actively participating in communities like **PyDelhi** and **GDG Noida**.
-
----
-
-### 🛠️ Tech Stack & Skills
-
-| Category | Technologies / Tools |
-| :--- | :--- |
-| **Languages** | <img src="https://skillicons.dev/icons?i=python,html,css,js&theme=dark" /> |
-| **OS & Cybersecurity** | <img src="https://skillicons.dev/icons?i=linux,kali&theme=dark" /> |
-| **Tools & Platforms** | <img src="https://skillicons.dev/icons?i=github,vscode,git&theme=dark" /> |
-
----
-
-### 🚀 What I Do
-
-- 🐍 **Python & Automation**: Developed **PyStream-Downloader** and **PyFile-Organizer** repositories. Built custom automation scripts, including an Image-to-PDF converter. Contributed projects to PyClub.
-- 💻 **Front-End Development**: Designed and coded front-end web projects using HTML, CSS, and JavaScript. Developed personal portfolios and custom restaurant landing pages.
-- 🐧 **SysAdmin & Security**: Experienced with Linux system administration, shell scripting, and security practices in Kali Linux environments.
-- 📊 **Business Software**: Proficient in accounting software, including Tally Prime and Tally ERP 9.
-
----
-
-### 📊 GitHub Statistics
+<br/>
 
 <p align="center">
-  <a href="https://github.com/princebadsiwal">
-    <img src="https://github-readme-stats.vercel.app/api?username=princebadsiwal&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180px" />
-  </a>
-  <a href="https://github.com/princebadsiwal">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princebadsiwal&layout=compact&theme=tokyonight" alt="Top Langs" height="180px" />
-  </a>
+  <img src="https://img.shields.io/badge/Profile-Summary-7F7FD5?style=for-the-badge" alt="Summary Badge" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/princebadsiwal">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=princebadsiwal&theme=tokyonight" alt="GitHub Streak" />
-  </a>
+  I am an active <b>Job Seeker</b> with a strong technical focus in Python-based automation, front-end web development using HTML, CSS, and JavaScript, and Linux system administration. I am also deeply engaged in the local tech scene, actively participating in communities like <b>PyDelhi</b> and <b>GDG Noida</b>.
 </p>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Python%20Automation-4479A1?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Front--End%20Web-0E76A8?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Linux%20%26%20Cybersecurity-FF6F00?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Accounting%20Software-2E7D32?style=flat-square" />
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Tech%20Stack-%20-91EAE4?style=for-the-badge" alt="Tech Stack" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,linux,kali,github,vscode&perline=8&theme=dark" alt="Core Stack" />
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/What%20I%20Do-%20-7F7FD5?style=for-the-badge" alt="What I Do" />
+</p>
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <div align="left">
+          <b>Python & Automation</b>
+          <ul>
+            <li>Developed <b>PyStream-Downloader</b> and <b>PyFile-Organizer</b> repositories.</li>
+            <li>Built custom automation scripts including an Image-to-PDF converter.</li>
+            <li>Contributed projects to the PyClub.</li>
+          </ul>
+        </div>
+      </td>
+      <td>
+        <div align="left">
+          <b>Web Development</b>
+          <ul>
+            <li>Designed and coded front-end web projects using HTML, CSS, and JavaScript.</li>
+            <li>Developed personal portfolio pages and custom restaurant landing pages.</li>
+          </ul>
+        </div>
+      </td>
+      <td>
+        <div align="left">
+          <b>System Admin & Software</b>
+          <ul>
+            <li>Experienced with Linux system administration and Kali Linux environments.</li>
+            <li>Proficient in accounting software, including Tally Prime and Tally ERP 9.</li>
+          </ul>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:91EAE4,50:86A8E7,100:7F7FD5&height=120&section=footer" alt="Footer" />
 </p>
+
