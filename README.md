@@ -1,104 +1,108 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:3B82F6&height=180&section=header&text=Prince%20Badsiwal&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Systems%20Administrator%20%2B%20DevSecOps%20%7C%20Python%20Automation%20%2B%20Edge%20AI&descSize=18&descAlignY=62&descColor=93C5FD" alt="Prince Badsiwal Header" />
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=850&lines=Systems+Administrator+%26+IT+Specialist+(NIELIT+Batch+Topper);DevSecOps+%26+Cloud+Practitioner+(Kyndryl+Grade+'S');Python+Automation+%26+System+Utilities;Full-Stack+Web+Developer+(React+19+%7C+Next.js+16);Active+Open-Source+Builder+(PyDelhi+%7C+GDG+Noida)" alt="Typing Intro" />
-  </a>
-</p>
+<img src="./assets/hero-banner.jpg" alt="Prince Badsiwal - Hardware & Systems Engineer" width="100%" />
 
-<p align="center">
-  <a href="https://badsiwal.thsite.top/" target="_blank">
-    <img src="https://img.shields.io/badge/Live%20Website-badsiwal.thsite.top-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Portfolio Website" />
-  </a>
-  <a href="https://linkedin.com/in/prince-badsiwal" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Prince_Badsiwal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/PrinceBad?tab=repositories&sort=stargazers">
-    <img src="https://img.shields.io/github/stars/PrinceBad?color=EAB308&label=Total%20Stars&logo=github&style=for-the-badge" alt="Total Stars" />
-  </a>
-  <a href="https://badsiwal.my-style.in/" target="_blank">
-    <img src="https://img.shields.io/badge/Connect-badsiwal.my--style.in-22C55E?style=for-the-badge&logo=google-drive&logoColor=white" alt="Connect" />
-  </a>
-</p>
+# Prince Badsiwal
 
-<br/>
+### **Hardware-Savvy Developer & Systems Engineer**
+*Building practical automation, on-device intelligence, and reliable software for real devices.*
 
-### 🌐 Live Showcase & Portfolio
-> 🚀 **Explore my interactive portfolio & live demos at [badsiwal.my-style.in](https://badsiwal.my-style.in/)**  
-> *Showcasing custom interactive web architectures, creative agency UI/UX, and high-performance client utilities.*
+[![GitHub followers](https://img.shields.io/github/followers/PrinceBad?label=Follow&style=for-the-badge&color=00D9FF&labelColor=0D1117)](https://github.com/PrinceBad)
+[![Profile views](https://komarev.com/ghpvc/?username=PrinceBad&label=PROFILE%20VIEWS&color=00D9FF&style=for-the-badge)](https://github.com/PrinceBad)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/prince-badsiwal)
+[![Website](https://img.shields.io/badge/Portfolio-Live-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://badsiwal.my-style.in/)
 
 ---
 
-### ⚡ About Me
+</div>
 
-I am a **Systems Administrator & DevSecOps Practitioner** based in **New Delhi, India**, combining enterprise hardware diagnostics and infrastructure management with modern Python automation and full-stack software engineering.
+## 📌 Executive Summary
 
-* 🖥️ **Systems Administration & IT Support**: NIELIT-certified specialist with extensive hands-on expertise administering Windows 10/11 & Linux (Ubuntu, Kali) environments. Managed 50+ client endpoints maintaining an **~85% First-Contact Resolution (FCR)** rate.
-* 🛡️ **DevSecOps & Cloud Infrastructure**: Certified by **Kyndryl & NIELIT (Grade 'S' | 94/108)** in CI/CD pipeline authoring, AWS cloud infrastructure labs, and DevSecOps security practices.
-* 🐍 **Python Automation & Scripting**: Engineering zero-dependency automation scripts, desktop utilities, and file processing tools that eliminate manual repetition and streamline technical workflows.
-* 🌐 **Network & Endpoint Security**: Hands-on network administration across LAN/WAN/VPN/DNS, Active Directory user/group management, and DNS-level network security filtering (**Pi-hole & AdGuard**).
-* 💾 **Forensic Data Diagnostics**: Successfully recovered **3+ TB** of corrupted and lost client data across enterprise and consumer storage devices.
-* 🧠 **Edge AI & Mobile Labs**: Running offline quantized LLMs on mobile hardware (**Google AI Edge LiteRT**) and experimenting with custom Android firmware and alternative mobile operating systems (**PostmarketOS / Ubuntu Touch / Termux**).
-* 🤝 **Active Community Member**: Regular participant in developer and open-source communities including **PyDelhi** and **GDG Noida**.
+I develop privacy-preserving, device-aware software — spanning on-device LLM inference on consumer Android hardware to resilient automation tools and applied AI workflows.
+
+* 📱 **Edge & On-Device AI:** Developing local, offline LLM runtimes on Android using Google AI Edge LiteRT, Vulkan GPU acceleration, and camera OCR.
+* 🛡️ **AI Safety & Retrieval:** Designing hybrid semantic pipelines (BM25 + dense vector embeddings) with prompt-injection defense layers and bias auditing.
+* ⚡ **Systems & Automation:** Engineering resilient stream archiving tools with exponential backoff and deterministic, reversible filesystem utilities.
 
 ---
 
-### 🏆 Professional Certifications & Honors
+## 🚀 Selected Projects
 
-| Certification / Honor | Issuer / Organization | Focus Area & Distinctions |
-| :--- | :--- | :--- |
-| **DevSecOps Certified (Grade 'S' — 94/108)** | *Kyndryl & NIELIT* | 120-Hr Program in CI/CD, AWS Cloud Infrastructure & App Pipelines |
-| **CHMT 'O' Level (Batch Topper — 1st Rank)** | *NIELIT New Delhi* | Hardware Architecture, Component Diagnostics & Systems Engineering |
-| **Google Gemini Educator Certified** | *Google* | Prompt Engineering, Agentic Workflows & Enterprise AI Productivity |
-| **Junior Software Developer** | *Skill India / NASSCOM* | Software Development Lifecycle (SDLC) & Logic Architecture (75.3% Score) |
-| **'O' Level Information Technology** | *NIELIT New Delhi* | Operating Systems, Computer Networks & Foundational Computer Science |
+> 🌟 **Start here:** **[`Local-LLM-AI`](https://github.com/PrinceBad/Local-LLM-AI)** — Flagship Android application exploring offline language-model execution and multimodal OCR directly on real mobile hardware.
 
----
-
-### 🌟 Featured Flagship Projects
-
-| Project | Tech Stack | Highlights | Link |
-| :--- | :--- | :--- | :---: |
-| **Local-LLM-AI** | `Android` `Jetpack Compose` `LiteRT` | Premium offline Android app running on-device LLMs (Gemma / Qwen). | [⭐ View Repo](https://github.com/PrinceBad/Local-LLM-AI) |
-| **TubeNotes** | `React 19` `Vite` `Express` `jsPDF` | Compiles YouTube lectures into vector-crisp, searchable study guide PDFs. | [🚀 View Repo](https://github.com/PrinceBad/TubeNotes) |
-| **Py-Image-Compressor** | `React` `OffscreenCanvas` `WebP` | Zero-latency batch image compressor with live interactive split-slider. | [🖼️ View Repo](https://github.com/PrinceBad/Py-Image-Compressor) |
-| **HyperOS-Unlock-Script** | `Python` `ADB` `Fastboot` | Zero-dependency automation suite to secure Xiaomi HyperOS bootloader unlock. | [⚡ View Repo](https://github.com/PrinceBad/Hyperos-Unlock-Script) |
-| **Anime-Recommender** | `Python` `Scikit-Learn` `ML` | Personalized recommendation engine using catalog & collaborative filtering. | [🤖 View Repo](https://github.com/PrinceBad/Anime-Recommender) |
+| Domain | Project | Core Stack | What It Demonstrates |
+| :--- | :--- | :--- | :--- |
+| **Edge AI & Mobile** | **[`Local-LLM-AI`](https://github.com/PrinceBad/Local-LLM-AI)** | Kotlin · Compose · LiteRT · Vulkan | Offline Android LLM and OCR workflows with a focus on device-aware performance and zero cloud dependence. |
+| **Enterprise AI & NLP** | **[`APEX-ATS`](https://github.com/PrinceBad/APEX-ATS)** | Python · BM25 · Embeddings · React | Resume-ranking workflow combining lexical search, semantic retrieval, and prompt-injection screening safeguards. |
+| **Media Engineering** | **[`PyStream-Downloader`](https://github.com/PrinceBad/PyStream-Downloader)** | Python · Async I/O · HLS/DASH | Resilient tooling for authorized stream capture, automatic retries, and live progress reporting. |
+| **Lecture to Docs** | **[`TubeNotes`](https://github.com/PrinceBad/TubeNotes)** | React 19 · Vite · Express · jsPDF | Compiles lecture and educational media into clean, searchable, vector-crisp study guide PDFs. |
+| **Filesystem Tooling** | **[`PyFile-Organizer`](https://github.com/PrinceBad/PyFile-Organizer)** | Python · CLI · JSON | Safer directory organization with non-destructive preview mode and recorded undo manifests. |
+| **Document Processing** | **[`Py-Image-Compressor`](https://github.com/PrinceBad/Py-Image-Compressor)** | Python · Pillow · Desktop GUI | Batch image compression and format conversion with practical visual quality controls. |
+| **Document Generation** | **[`Image-2-Pdf-Demo`](https://github.com/PrinceBad/Image-2-Pdf-Demo)** | Python · PyMuPDF · PIL | Multi-format image synthesis into structured, multi-page PDF documents. |
+| **Generative AI** | **[`Anime-Recommender`](https://github.com/PrinceBad/Anime-Recommender)** | Python · Gemini API | Prompt-assisted content discovery and recommendation engine utilizing Google Gemini. |
 
 ---
 
-### 🛠️ Tech Stack & Toolbelt
+## 🛠️ Technical Arsenal
 
-<p align="center">
-  <b>Languages & Frameworks</b><br/>
-  <img src="https://skillicons.dev/icons?i=python,js,react,nextjs,vite,tailwind,html,css&perline=8&theme=dark" alt="Languages and Frameworks" />
-</p>
+<div align="left">
 
-<p align="center">
-  <b>Tools, Platforms & Systems</b><br/>
-  <img src="https://skillicons.dev/icons?i=linux,androidstudio,git,github,aws,docker,vscode,nodejs,express,fastapi&perline=10&theme=dark" alt="Tools and Systems" />
-</p>
+**AI & Edge Runtime**  
+![LiteRT](https://img.shields.io/badge/Google%20AI%20Edge%20LiteRT-4285F4?style=flat-square&logo=google&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-00A67E?style=flat-square)
+![Transformers](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Gemini API](https://img.shields.io/badge/Gemini%20API-8E75C2?style=flat-square&logo=google&logoColor=white)
+
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+**Engineering & Frameworks**  
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=android&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+</div>
 
 ---
 
-### 📊 GitHub Insights
+## 📈 Engineering Principles
 
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=PrinceBad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Prince's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrinceBad&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
-</p>
-
----
-
-### 📬 Connect & Collaborate
-* 🌐 **Live Website & Portfolio**: [badsiwal.my-style.in](https://badsiwal.my-style.in/)
-* 💼 **LinkedIn Profile**: [linkedin.com/in/prince-badsiwal](https://linkedin.com/in/prince-badsiwal)
-* 🐙 **GitHub Profile**: [github.com/PrinceBad](https://github.com/PrinceBad)
+1. **Privacy by Architecture:** Keeping sensitive processing on-device can reduce exposure to third-party services and network transit. I design local-first workflows with clear data handling and user control.
+2. **Security & Robustness:** I evaluate AI-assisted workflows against prompt injection, malformed input, unsafe output handling, and failure conditions before relying on them in production-like workflows.
+3. **Safe, Reversible Automation:** File-system tools should provide clear previews, explicit apply steps, operation logs, and rollback support wherever possible.
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,50:1E293B,100:0F172A&height=100&section=footer" alt="Footer" />
-</p>
+## 🐍 Contribution Signal
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PrinceBad/PrinceBad/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PrinceBad/PrinceBad/output/github-contribution-grid-snake.svg" />
+  <img alt="Animated snake moving through Prince Badsiwal's GitHub contribution graph" src="https://raw.githubusercontent.com/PrinceBad/PrinceBad/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
+
+</div>
+
+---
+
+## 💬 Collaborate
+
+* 🔭 **Currently Exploring:** Mobile performance profiling, on-device LLM quantization on diverse silicon (Snapdragon / Tensor / Dimensity), and adversarial evaluation of LLM pipelines.
+* 🌐 **Live Website & Portfolio:** [badsiwal.my-style.in](https://badsiwal.my-style.in/)
+* 💼 **LinkedIn:** [linkedin.com/in/prince-badsiwal](https://linkedin.com/in/prince-badsiwal)
+* 🐙 **GitHub:** [github.com/PrinceBad](https://github.com/PrinceBad)
+* 🤝 **Open To:** On-Device AI, Android, Python systems, developer tooling, and open-source collaboration.
+
+<div align="center">
+<sub>Built with care • Focused on useful, reliable software</sub>
+</div>
