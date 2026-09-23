@@ -1,4 +1,4 @@
-name: Generate Contribution Signal
+name: Generate Contribution Snake
 
 on:
   schedule:
@@ -17,19 +17,19 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate dark hardware-style contribution snake
+      - name: Generate clean contribution snake
         uses: Platane/snk@v3
         with:
           github_user_name: PrinceBad
           outputs: |
-            assets/contribution-signal.svg?color_snake=%2300E5FF&color_dots=%230D1117,%230B2A3D,%23075985,%230284C7,%2300D9FF
-            assets/contribution-signal-dark.svg?palette=github-dark&color_snake=%2300E5FF&color_dots=%230D1117,%230B2A3D,%23075985,%230284C7,%2300D9FF
-            assets/contribution-signal.gif?color_snake=%2300E5FF&color_dots=%230D1117,%230B2A3D,%23075985,%230284C7,%2300D9FF
+            assets/contribution-signal.svg
+            assets/contribution-signal-dark.svg?palette=github-dark
+            assets/contribution-signal.gif
 
       - name: Commit updated contribution assets
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add assets/contribution-signal*
-          git diff --staged --quiet || git commit -m "chore(snake): auto-update contribution signal assets"
+          git diff --staged --quiet || git commit -m "chore(snake): auto-update contribution snake"
           git push origin main
