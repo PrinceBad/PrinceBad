@@ -12,14 +12,11 @@
   />
 </picture>
 
-# Prince Badsiwal
-
-### Hardware-Savvy Developer & Systems Engineer
-*Building hardware-aware software, practical automation, and reliable developer tools.*
+<br/>
 
 `SYSTEM STATUS  ▸  ANDROID • PYTHON • AUTOMATION • ACTIVE`
 
-<br/>
+<br/><br/>
 
 [![GitHub followers](https://img.shields.io/github/followers/PrinceBad?label=Follow&style=for-the-badge&color=00D9FF&labelColor=0D1117)](https://github.com/PrinceBad)
 [![Profile views](https://komarev.com/ghpvc/?username=PrinceBad&label=PROFILE%20VIEWS&color=00D9FF&style=for-the-badge)](https://github.com/PrinceBad)
