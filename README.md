@@ -115,21 +115,8 @@ I build privacy-conscious, hardware-aware software across Android, Python automa
 
 <div align="center">
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/PrinceBad/PrinceBad/output/contribution-signal-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/PrinceBad/PrinceBad/output/contribution-signal.svg"
-  />
-  <img
-    alt="Animated cyan signal moving through Prince Badsiwal's GitHub contribution graph"
-    src="https://raw.githubusercontent.com/PrinceBad/PrinceBad/output/contribution-signal-dark.svg"
-    width="100%"
-  />
-</picture>
+<img src="./assets/contribution-signal-dark.svg#gh-dark-mode-only" alt="Animated cyan contribution signal" width="100%" />
+<img src="./assets/contribution-signal.svg#gh-light-mode-only" alt="Animated cyan contribution signal" width="100%" />
 
 </div>
 
