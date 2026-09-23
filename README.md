@@ -1,11 +1,25 @@
 <div align="center">
 
-<img src="./assets/hero-banner.jpg" alt="Prince Badsiwal - Hardware & Systems Engineer" width="100%" />
+<picture>
+  <source
+    media="(prefers-reduced-motion: reduce)"
+    srcset="./assets/hardware-signal-static.jpg"
+  />
+  <img
+    src="./assets/hardware-signal.gif"
+    alt="Animated dark circuit-board banner for Prince Badsiwal, Hardware-Savvy Developer and Systems Engineer"
+    width="100%"
+  />
+</picture>
 
 # Prince Badsiwal
 
-### **Hardware-Savvy Developer & Systems Engineer**
+### Hardware-Savvy Developer & Systems Engineer
 *Building hardware-aware software, practical automation, and reliable developer tools.*
+
+`SYSTEM STATUS  ▸  ANDROID • PYTHON • AUTOMATION • ACTIVE`
+
+<br/>
 
 [![GitHub followers](https://img.shields.io/github/followers/PrinceBad?label=Follow&style=for-the-badge&color=00D9FF&labelColor=0D1117)](https://github.com/PrinceBad)
 [![Profile views](https://komarev.com/ghpvc/?username=PrinceBad&label=PROFILE%20VIEWS&color=00D9FF&style=for-the-badge)](https://github.com/PrinceBad)
@@ -16,7 +30,7 @@
 
 </div>
 
-## 📌 About Me
+## [01] ABOUT & EXECUTIVE SUMMARY
 
 I build privacy-conscious, hardware-aware software across Android, Python automation, applied AI, and document workflows.
 
@@ -26,7 +40,7 @@ I build privacy-conscious, hardware-aware software across Android, Python automa
 
 ---
 
-## 🚀 Featured Projects
+## [02] FEATURED SYSTEMS
 
 > 🌟 **Start here:** **[`Local-LLM-AI`](https://github.com/PrinceBad/Local-LLM-AI)**  
 > My flagship Android project for exploring offline language-model execution, camera OCR, and performance on real mobile hardware.
@@ -47,7 +61,7 @@ I build privacy-conscious, hardware-aware software across Android, Python automa
 
 ---
 
-## 📊 Engineering Snapshot
+## [03] ENGINEERING SNAPSHOT
 
 | Focus | Demonstrated Techniques & Capabilities |
 | :--- | :--- |
@@ -59,7 +73,7 @@ I build privacy-conscious, hardware-aware software across Android, Python automa
 
 ---
 
-## 🛠️ Technical Arsenal
+## [04] TECHNICAL ARSENAL
 
 <div align="left">
 
@@ -92,7 +106,7 @@ I build privacy-conscious, hardware-aware software across Android, Python automa
 
 ---
 
-## 📈 Engineering Principles
+## [05] ENGINEERING PRINCIPLES
 
 1. **Privacy by Architecture:** Keep sensitive processing local where practical, minimize unnecessary data transfer, and make data handling explicit.
 2. **Security & Robustness:** Test AI-assisted workflows against prompt injection, malformed inputs, unsafe outputs, and predictable failure modes.
@@ -100,7 +114,7 @@ I build privacy-conscious, hardware-aware software across Android, Python automa
 
 ---
 
-## 🐍 Contribution Signal
+## [06] CONTRIBUTION SIGNAL
 
 <div align="center">
 
@@ -114,7 +128,7 @@ I build privacy-conscious, hardware-aware software across Android, Python automa
 
 ---
 
-## 💬 Collaborate
+## [07] COLLABORATE
 
 * 🔭 **Currently Exploring:** Mobile performance profiling, model quantization, and robust evaluation of AI-assisted workflows.
 * 🤝 **Open To:** Android, Python systems, applied NLP, developer tooling, and open-source collaboration.
