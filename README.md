@@ -7,7 +7,7 @@
   />
   <img
     src="./assets/hardware-signal.gif"
-    alt="Animated dark circuit-board banner for Prince Badsiwal, Hardware-Savvy Developer and Systems Engineer"
+    alt="Animated motherboard banner with parallel data lanes, LPDDR memory, power-delivery circuitry, and cyan signals moving toward a processor core"
     width="100%"
   />
 </picture>
@@ -30,7 +30,7 @@
 
 </div>
 
-## [01] ABOUT & EXECUTIVE SUMMARY
+## [01] ABOUT
 
 I build privacy-conscious, hardware-aware software across Android, Python automation, applied AI, and document workflows.
 
