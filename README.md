@@ -5,7 +5,7 @@
 # Prince Badsiwal
 
 ### **Hardware-Savvy Developer & Systems Engineer**
-*Building practical automation, on-device intelligence, and reliable software for real devices.*
+*Building hardware-aware software, practical automation, and reliable developer tools.*
 
 [![GitHub followers](https://img.shields.io/github/followers/PrinceBad?label=Follow&style=for-the-badge&color=00D9FF&labelColor=0D1117)](https://github.com/PrinceBad)
 [![Profile views](https://komarev.com/ghpvc/?username=PrinceBad&label=PROFILE%20VIEWS&color=00D9FF&style=for-the-badge)](https://github.com/PrinceBad)
@@ -16,30 +16,46 @@
 
 </div>
 
-## 📌 Executive Summary
+## 📌 About Me
 
-I develop privacy-preserving, device-aware software — spanning on-device LLM inference on consumer Android hardware to resilient automation tools and applied AI workflows.
+I build privacy-conscious, hardware-aware software across Android, Python automation, applied AI, and document workflows.
 
-* 📱 **Edge & On-Device AI:** Developing local, offline LLM runtimes on Android using Google AI Edge LiteRT, Vulkan GPU acceleration, and camera OCR.
-* 🛡️ **AI Safety & Retrieval:** Designing hybrid semantic pipelines (BM25 + dense vector embeddings) with prompt-injection defense layers and bias auditing.
-* ⚡ **Systems & Automation:** Engineering resilient stream archiving tools with exponential backoff and deterministic, reversible filesystem utilities.
+* 📱 **Mobile & Edge Systems:** Android applications using Kotlin, Jetpack Compose, LiteRT, Vulkan, and camera OCR.
+* 🛡️ **Applied AI & NLP:** Retrieval workflows using BM25, vector embeddings, structured evaluation, and defensive input handling.
+* ⚙️ **Reliable Automation:** Resilient media tools and reversible filesystem utilities designed for real-world failure conditions.
 
 ---
 
-## 🚀 Selected Projects
+## 🚀 Featured Projects
 
-> 🌟 **Start here:** **[`Local-LLM-AI`](https://github.com/PrinceBad/Local-LLM-AI)** — Flagship Android application exploring offline language-model execution and multimodal OCR directly on real mobile hardware.
+> 🌟 **Start here:** **[`Local-LLM-AI`](https://github.com/PrinceBad/Local-LLM-AI)**  
+> My flagship Android project for exploring offline language-model execution, camera OCR, and performance on real mobile hardware.
 
-| Domain | Project | Core Stack | What It Demonstrates |
-| :--- | :--- | :--- | :--- |
-| **Edge AI & Mobile** | **[`Local-LLM-AI`](https://github.com/PrinceBad/Local-LLM-AI)** | Kotlin · Compose · LiteRT · Vulkan | Offline Android LLM and OCR workflows with a focus on device-aware performance and zero cloud dependence. |
-| **Enterprise AI & NLP** | **[`APEX-ATS`](https://github.com/PrinceBad/APEX-ATS)** | Python · BM25 · Embeddings · React | Resume-ranking workflow combining lexical search, semantic retrieval, and prompt-injection screening safeguards. |
-| **Media Engineering** | **[`PyStream-Downloader`](https://github.com/PrinceBad/PyStream-Downloader)** | Python · Async I/O · HLS/DASH | Resilient tooling for authorized stream capture, automatic retries, and live progress reporting. |
-| **Lecture to Docs** | **[`TubeNotes`](https://github.com/PrinceBad/TubeNotes)** | React 19 · Vite · Express · jsPDF | Compiles lecture and educational media into clean, searchable, vector-crisp study guide PDFs. |
-| **Filesystem Tooling** | **[`PyFile-Organizer`](https://github.com/PrinceBad/PyFile-Organizer)** | Python · CLI · JSON | Safer directory organization with non-destructive preview mode and recorded undo manifests. |
-| **Document Processing** | **[`Py-Image-Compressor`](https://github.com/PrinceBad/Py-Image-Compressor)** | Python · Pillow · Desktop GUI | Batch image compression and format conversion with practical visual quality controls. |
-| **Document Generation** | **[`Image-2-Pdf-Demo`](https://github.com/PrinceBad/Image-2-Pdf-Demo)** | Python · PyMuPDF · PIL | Multi-format image synthesis into structured, multi-page PDF documents. |
-| **Generative AI** | **[`Anime-Recommender`](https://github.com/PrinceBad/Anime-Recommender)** | Python · Gemini API | Prompt-assisted content discovery and recommendation engine utilizing Google Gemini. |
+| Project | Focus | Stack |
+| :--- | :--- | :--- |
+| **[`Local-LLM-AI`](https://github.com/PrinceBad/Local-LLM-AI)** | Offline Android LLM and OCR workflows designed for reduced cloud dependence | Kotlin · Compose · LiteRT · Vulkan |
+| **[`APEX-ATS`](https://github.com/PrinceBad/APEX-ATS)** | Hybrid resume retrieval and screening safeguards | Python · BM25 · Embeddings · React |
+| **[`PyStream-Downloader`](https://github.com/PrinceBad/PyStream-Downloader)** | Resilient authorized stream capture | Python · Async I/O · HLS/DASH |
+
+### 🧰 More Projects
+
+* **[`TubeNotes`](https://github.com/PrinceBad/TubeNotes)** — Converts educational media into searchable, vector-crisp study-guide PDFs.
+* **[`PyFile-Organizer`](https://github.com/PrinceBad/PyFile-Organizer)** — Safe directory organization with non-destructive preview and undo manifests.
+* **[`Py-Image-Compressor`](https://github.com/PrinceBad/Py-Image-Compressor)** — Batch image compression and format conversion with practical quality controls.
+* **[`Image-2-Pdf-Demo`](https://github.com/PrinceBad/Image-2-Pdf-Demo)** — Multi-image PDF generation for clean document workflows.
+* **[`Anime-Recommender`](https://github.com/PrinceBad/Anime-Recommender)** — Gemini-powered recommendation workflow and content matching.
+
+---
+
+## 📊 Engineering Snapshot
+
+| Focus | Demonstrated Techniques & Capabilities |
+| :--- | :--- |
+| **Mobile Performance** | LiteRT runtime integration, Vulkan GPU acceleration, Android hardware profiling |
+| **AI Reliability** | Prompt-injection testing, malformed-input sanitization, structured evaluation workflows |
+| **Automation Safety** | Dry-run preview modes, operation logs, JSON rollback manifests |
+| **Document Workflows** | Camera OCR pipelines, image preprocessing, quality-aware compression, and PDF generation |
+| **Resilient Systems** | Non-blocking async I/O, exponential backoff retries, progress tracking, and failure recovery |
 
 ---
 
@@ -69,15 +85,18 @@ I develop privacy-preserving, device-aware software — spanning on-device LLM i
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
+**Systems & Applied Techniques**  
+`Vulkan` · `BM25` · `Vector Retrieval` · `HLS/DASH` · `Async I/O` · `OCR Pipelines` · `PDF Generation`
+
 </div>
 
 ---
 
 ## 📈 Engineering Principles
 
-1. **Privacy by Architecture:** Keeping sensitive processing on-device can reduce exposure to third-party services and network transit. I design local-first workflows with clear data handling and user control.
-2. **Security & Robustness:** I evaluate AI-assisted workflows against prompt injection, malformed input, unsafe output handling, and failure conditions before relying on them in production-like workflows.
-3. **Safe, Reversible Automation:** File-system tools should provide clear previews, explicit apply steps, operation logs, and rollback support wherever possible.
+1. **Privacy by Architecture:** Keep sensitive processing local where practical, minimize unnecessary data transfer, and make data handling explicit.
+2. **Security & Robustness:** Test AI-assisted workflows against prompt injection, malformed inputs, unsafe outputs, and predictable failure modes.
+3. **Safe, Reversible Automation:** Prefer previews, explicit apply steps, operation logs, and recovery paths for tools that modify user files.
 
 ---
 
@@ -97,11 +116,10 @@ I develop privacy-preserving, device-aware software — spanning on-device LLM i
 
 ## 💬 Collaborate
 
-* 🔭 **Currently Exploring:** Mobile performance profiling, on-device LLM quantization on diverse silicon (Snapdragon / Tensor / Dimensity), and adversarial evaluation of LLM pipelines.
-* 🌐 **Live Website & Portfolio:** [badsiwal.my-style.in](https://badsiwal.my-style.in/)
-* 💼 **LinkedIn:** [linkedin.com/in/prince-badsiwal](https://linkedin.com/in/prince-badsiwal)
-* 🐙 **GitHub:** [github.com/PrinceBad](https://github.com/PrinceBad)
-* 🤝 **Open To:** On-Device AI, Android, Python systems, developer tooling, and open-source collaboration.
+* 🔭 **Currently Exploring:** Mobile performance profiling, model quantization, and robust evaluation of AI-assisted workflows.
+* 🤝 **Open To:** Android, Python systems, applied NLP, developer tooling, and open-source collaboration.
+* 🌐 **Portfolio:** [badsiwal.my-style.in](https://badsiwal.my-style.in/)
+* 💼 **LinkedIn:** [Connect with me](https://linkedin.com/in/prince-badsiwal)
 
 <div align="center">
 <sub>Built with care • Focused on useful, reliable software</sub>
