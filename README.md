@@ -14,7 +14,7 @@
 
 <br/>
 
-`SYSTEM STATUS  ▸  ANDROID • PYTHON • AUTOMATION • ACTIVE`
+`SYSTEM STATUS  ▸  ON-DEVICE AI • ANDROID • PYTHON SYSTEMS • ACTIVE`
 
 <br/><br/>
 
@@ -27,108 +27,39 @@
 
 </div>
 
-## [01] ABOUT
+## [01] SYSTEM OVERVIEW
 
-I build privacy-conscious, hardware-aware software across Android, Python automation, applied AI, and document workflows.
+I build **privacy-first, hardware-aware software** across on-device Android AI, resilient Python automation, and hybrid retrieval pipelines. My work focuses on running compute locally where practical, designing for real-world network and filesystem failures, and verifying AI outputs before they hit production.
 
-* 📱 **Mobile & Edge Systems:** Android applications using Kotlin, Jetpack Compose, LiteRT, Vulkan, and camera OCR.
-* 🛡️ **Applied AI & NLP:** Retrieval workflows using BM25, vector embeddings, structured evaluation, and defensive input handling.
-* ⚙️ **Reliable Automation:** Resilient media tools and reversible filesystem utilities designed for real-world failure conditions.
+- 📱 **On-Device & Edge AI:** Android systems built with Kotlin and Jetpack Compose, leveraging LiteRT, Vulkan GPU delegates, and real-time camera OCR.
+- 🛡️ **Applied AI & Retrieval:** Hybrid search workflows (BM25 + dense embeddings) paired with prompt-injection defenses and structured evaluation.
+- ⚙️ **Fault-Tolerant Automation:** Non-blocking media pipelines and reversible filesystem utilities engineered with dry-run previews and rollback manifests.
 
 ---
 
 ## [02] FEATURED SYSTEMS
 
-> 🌟 **Start here:** **[`Local-LLM-AI`](https://github.com/PrinceBad/Local-LLM-AI)**  
-> My flagship Android project for exploring offline language-model execution, camera OCR, and performance on real mobile hardware.
+> 🌟 **Flagship Project:** **[`Local-LLM-AI`](https://github.com/PrinceBad/Local-LLM-AI)**  
+> An offline-first Android inference and camera OCR engine built to benchmark quantized LLM execution, memory pressure, and Vulkan GPU acceleration on real mobile hardware.
 
-| Project | Focus | Stack |
+| System | Architectural Focus | Core Stack |
 | :--- | :--- | :--- |
-| **[`Local-LLM-AI`](https://github.com/PrinceBad/Local-LLM-AI)** | Offline Android LLM and OCR workflows designed for reduced cloud dependence | Kotlin · Compose · LiteRT · Vulkan |
-| **[`APEX-ATS`](https://github.com/PrinceBad/APEX-ATS)** | Hybrid resume retrieval and screening safeguards | Python · BM25 · Embeddings · React |
-| **[`PyStream-Downloader`](https://github.com/PrinceBad/PyStream-Downloader)** | Resilient authorized stream capture | Python · Async I/O · HLS/DASH |
+| **[`Local-LLM-AI`](https://github.com/PrinceBad/Local-LLM-AI)** | Offline Android LLM execution, hardware profiling, and camera OCR workflows with zero cloud dependence | `Kotlin` · `Compose` · `LiteRT` · `Vulkan` |
+| **[`APEX-ATS`](https://github.com/PrinceBad/APEX-ATS)** | Hybrid resume retrieval engine combining lexical + semantic search with input-sanitization safeguards | `Python` · `BM25` · `Embeddings` · `React` |
+| **[`PyStream-Downloader`](https://github.com/PrinceBad/PyStream-Downloader)** | Resilient, concurrent stream capture with exponential backoff and fragment recovery | `Python` · `Async I/O` · `HLS/DASH` |
+| **[`TubeNotes`](https://github.com/PrinceBad/TubeNotes)** | Automated media-to-document pipeline that converts educational videos into searchable, vector-crisp PDFs | `Python` · `NLP` · `PDF Generation` |
 
-### 🧰 More Projects
+<details>
+<summary><b>🧰 View Developer & Media Utilities (4 Repositories)</b></summary>
+<br/>
 
-* **[`TubeNotes`](https://github.com/PrinceBad/TubeNotes)** — Converts educational media into searchable, vector-crisp study-guide PDFs.
-* **[`PyFile-Organizer`](https://github.com/PrinceBad/PyFile-Organizer)** — Safe directory organization with non-destructive preview and undo manifests.
-* **[`Py-Image-Compressor`](https://github.com/PrinceBad/Py-Image-Compressor)** — Batch image compression and format conversion with practical quality controls.
-* **[`Image-2-Pdf-Demo`](https://github.com/PrinceBad/Image-2-Pdf-Demo)** — Multi-image PDF generation for clean document workflows.
-* **[`Anime-Recommender`](https://github.com/PrinceBad/Anime-Recommender)** — Gemini-powered recommendation workflow and content matching.
-
----
-
-## [03] ENGINEERING SNAPSHOT
-
-| Focus | Demonstrated Techniques & Capabilities |
+| Utility | Capability |
 | :--- | :--- |
-| **Mobile Performance** | LiteRT runtime integration, Vulkan GPU acceleration, Android hardware profiling |
-| **AI Reliability** | Prompt-injection testing, malformed-input sanitization, structured evaluation workflows |
-| **Automation Safety** | Dry-run preview modes, operation logs, JSON rollback manifests |
-| **Document Workflows** | Camera OCR pipelines, image preprocessing, quality-aware compression, and PDF generation |
-| **Resilient Systems** | Non-blocking async I/O, exponential backoff retries, progress tracking, and failure recovery |
+| **[`PyFile-Organizer`](https://github.com/PrinceBad/PyFile-Organizer)** | Non-destructive directory automation with dry-run previews, operation logs, and JSON rollback manifests. |
+| **[`Py-Image-Compressor`](https://github.com/PrinceBad/Py-Image-Compressor)** | Batch image compression and format conversion with perceptual quality controls. |
+| **[`Anime-Recommender`](https://github.com/PrinceBad/Anime-Recommender)** | Gemini-powered content matching and structured recommendation workflow. |
+| **[`Image-2-Pdf-Demo`](https://github.com/PrinceBad/Image-2-Pdf-Demo)** | Multi-image preprocessing and clean document compilation pipeline. |
+
+</details>
 
 ---
-
-## [04] TECHNICAL ARSENAL
-
-<div align="left">
-
-**AI & Edge Runtime**  
-![LiteRT](https://img.shields.io/badge/Google%20AI%20Edge%20LiteRT-4285F4?style=flat-square&logo=google&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-00A67E?style=flat-square)
-![Transformers](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![Gemini API](https://img.shields.io/badge/Gemini%20API-8E75C2?style=flat-square&logo=google&logoColor=white)
-
-**Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-
-**Engineering & Frameworks**  
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=android&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-**Systems & Applied Techniques**  
-`Vulkan` · `BM25` · `Vector Retrieval` · `HLS/DASH` · `Async I/O` · `OCR Pipelines` · `PDF Generation`
-
-</div>
-
----
-
-## [05] ENGINEERING PRINCIPLES
-
-1. **Privacy by Architecture:** Keep sensitive processing local where practical, minimize unnecessary data transfer, and make data handling explicit.
-2. **Security & Robustness:** Test AI-assisted workflows against prompt injection, malformed inputs, unsafe outputs, and predictable failure modes.
-3. **Safe, Reversible Automation:** Prefer previews, explicit apply steps, operation logs, and recovery paths for tools that modify user files.
-
----
-
-## [06] CONTRIBUTION SIGNAL
-
-<div align="center">
-
-<img src="./assets/contribution-signal-dark.svg#gh-dark-mode-only" alt="Animated cyan contribution signal" width="100%" />
-<img src="./assets/contribution-signal.svg#gh-light-mode-only" alt="Animated cyan contribution signal" width="100%" />
-
-</div>
-
----
-
-## [07] COLLABORATE
-
-* 🔭 **Currently Exploring:** Mobile performance profiling, model quantization, and robust evaluation of AI-assisted workflows.
-* 🤝 **Open To:** Android, Python systems, applied NLP, developer tooling, and open-source collaboration.
-* 🌐 **Portfolio:** [badsiwal.my-style.in](https://badsiwal.my-style.in/)
-* 💼 **LinkedIn:** [Connect with me](https://linkedin.com/in/prince-badsiwal)
-
-<div align="center">
-<sub>Built with care • Focused on useful, reliable software</sub>
-</div>
